@@ -59,4 +59,7 @@ cd backend
 pip install fastapi uvicorn
 
 uvicorn main:app --reload --host 127.0.0.1 --port 8000
+<img width="722" height="144" alt="image" src="https://github.com/user-attachments/assets/7108c63a-cc72-49bc-bda6-8ac2850fa60b" />
+
+
 
